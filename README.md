@@ -4,7 +4,7 @@ Hello World!
 
 This is a markdown test
 
-[![roadmap.sh](https://roadmap.sh/card/tall/6784c6ca70129741a86c8166?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6784c6ca70129741a86c8166?variant=dark" alt="roadmap.sh"/></a>
 
 <!--
 **m-iller/m-iller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
