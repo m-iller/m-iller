@@ -4,8 +4,6 @@ Hello World!
 
 This is a markdown test
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6784c6ca70129741a86c8166?variant=dark" alt="roadmap.sh"/></a>
-
 deleting your repo's makes contributions go bye bye......
 It is rly better to just archive them.
 
