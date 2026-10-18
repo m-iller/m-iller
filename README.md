@@ -57,8 +57,8 @@ available for freelance → t.me/m_ill_r
   <img height="165" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=m-iller&show_icons=true&hide_border=true&bg_color=00000000&title_color=24292F&text_color=57606A&icon_color=24292F&ring_color=24292F&rank_icon=github&include_all_commits=true&disable_animations=true">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=m-iller&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=C9D1D9&text_color=8B949E&disable_animations=true">
-  <img height="165" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-iller&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=24292F&text_color=57606A&disable_animations=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=m-iller&hide=lua&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=C9D1D9&text_color=8B949E&disable_animations=true">
+  <img height="165" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-iller&hide=lua&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=24292F&text_color=57606A&disable_animations=true">
 </picture>
 
 <picture>
